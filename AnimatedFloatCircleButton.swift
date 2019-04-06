@@ -93,12 +93,15 @@ class CircleMenu : UIView {
     @objc func mainButtonTapped(_ sender : UIButton){
         self.animateButton()
     }
+    
     @objc func btnOneTapped(_ sender : UIButton){
         
     }
+    
     @objc func btnTwoTapped(_ sender : UIButton){
         
     }
+    
     @objc func btnThreeTapped(_ sender : UIButton){
         
     }
